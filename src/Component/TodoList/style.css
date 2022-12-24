@@ -1,0 +1,17 @@
+form>button{
+    color: white;
+    background:linear-gradient(90deg,rgb(97,40,213),rgb(90,51,218),rgb(81,69,227),rgb(68,88,237),rgb(62,96,243));
+    height: 40px;
+    width: 70px;
+    border-radius: 0 10px 10px 0;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+input{
+    border: 1px solid gray;
+    height: 35px;
+    width: 250px;
+    border-radius: 10px 0 0 10px;
+    margin-top:10px ;
+    padding: 0 10px;
+}
